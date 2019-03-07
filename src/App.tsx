@@ -17,7 +17,6 @@ class App extends React.Component<any> {
             <Router history={ history }>
                 <React.Fragment>
                     hello world
-                    
                 </React.Fragment>
             </Router>
         )
